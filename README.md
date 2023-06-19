@@ -6,5 +6,5 @@ Marvel movies is a Hollywood film production company which has produced many sup
 Problem statement:-
 The production company wants to plan their every move analytically based on data and have approached you for help with this new project. You have been provided with the data of the movies that tells about all films,actors,awards,country,inventory and much . You have to analyse the data set and draw meaningful insights that can help them start their new project
 
-Tech-Stack Used
+Tech-Stack Used:-
   I will be using MySQL workbench to write and execute SQL queries on the Mavenmovies database
